@@ -6,4 +6,4 @@
 
 Files:
 - `student-performance/student_performance.py`
-- `StudentsPerformance.csv` (upload dataset)
+- `StudentsPerformance.csv` 
